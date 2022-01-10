@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				239,
+				14
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-84,
+				-24
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				218
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				109,
+				204
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				90
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bugs Bunny",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bugs",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		195,
+		180
+	],
+	"camera_position": [
+		-110,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
