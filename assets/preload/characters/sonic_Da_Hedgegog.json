@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonic_da_Hedgegog_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				-106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonic_da_Hedgegog_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonic_da_Hedgegog_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonic_da_Hedgegog_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				-77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sonic_da_Hedgegog_Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonic_Da_Hedgegog",
+	"position": [
+		-70,
+		280
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		204,
+		237
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

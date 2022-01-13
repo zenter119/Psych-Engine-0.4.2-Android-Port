@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SONIC_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SONIC_Left"
+		},
+		{
+			"offsets": [
+				40,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SONIC_Down"
+		},
+		{
+			"offsets": [
+				-30,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SONIC_Up"
+		},
+		{
+			"offsets": [
+				0,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SONIC_Right"
+		},
+		{
+			"offsets": [
+				-3,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "SONIC_DIED"
+		},
+		{
+			"offsets": [
+				198,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "SONIC_DeadLoop Confirm"
+		},
+		{
+			"offsets": [
+				-3,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "SONIC_Dead Loop"
+		},
+		{
+			"offsets": [
+				0,
+				150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SONICLeft_Miss"
+		},
+		{
+			"offsets": [
+				35,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "SONICDown_Miss"
+		},
+		{
+			"offsets": [
+				-45,
+				180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "SONICUp_Miss"
+		},
+		{
+			"offsets": [
+				-15,
+				115
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SONICRight_Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONIC",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sonicP",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

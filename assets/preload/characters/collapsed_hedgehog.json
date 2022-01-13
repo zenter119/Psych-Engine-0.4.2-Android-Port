@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-240,
+				-120
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Collapsed_Hedgehog_Idle"
+		},
+		{
+			"offsets": [
+				681,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Collapsed_Hedgehog_Left"
+		},
+		{
+			"offsets": [
+				-700,
+				-621
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Collapsed_Hedgehog_Down"
+		},
+		{
+			"offsets": [
+				-176,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Collapsed_Hedgehog_Up"
+		},
+		{
+			"offsets": [
+				-730,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Collapsed_Hedgehog_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Collapsed_Hedgehog",
+	"position": [
+		-1130,
+		-20
+	],
+	"healthicon": "collapsed",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		0,
+		6
+	],
+	"camera_position": [
+		-530,
+		-1620
+	],
+	"sing_duration": 6.1,
+	"scale": 5.8
+}

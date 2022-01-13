@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				102,
+				-290
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "teils_the_fucker_Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "teils_the_fucker_Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "teils_the_fucker_Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				31,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "teils_the_fucker_Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "teils_the_fucker_Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teils_The_Fucker",
+	"position": [
+		60,
+		60
+	],
+	"healthicon": "teils",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		180,
+		48
+	],
+	"camera_position": [
+		-260,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

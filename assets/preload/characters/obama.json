@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-15,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				20,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-35,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				35,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Obama",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "obama",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		159,
+		224
+	],
+	"camera_position": [
+		0,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

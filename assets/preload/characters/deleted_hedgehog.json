@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				504,
+				146
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				252,
+				-49
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				144
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				158,
+				142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				95
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				215
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deleted_hedgehog",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "dh",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		60,
+		175
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
