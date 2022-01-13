@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Metal Sonic.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Metal Anim0000" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0001" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0002" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0003" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0004" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0005" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0006" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0007" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0008" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0009" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0010" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0011" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0012" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0013" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0014" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0015" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0016" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0017" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0018" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0019" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0020" x="0" y="0" width="353" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0021" x="353" y="0" width="409" height="509" frameX="-72" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0022" x="353" y="0" width="409" height="509" frameX="-72" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0023" x="762" y="0" width="439" height="502" frameX="-44" frameY="-7" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0024" x="1201" y="0" width="446" height="502" frameX="-44" frameY="-7" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0025" x="1647" y="0" width="447" height="507" frameX="-49" frameY="-2" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0026" x="2094" y="0" width="398" height="507" frameX="-49" frameY="-2" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0027" x="2492" y="0" width="405" height="508" frameX="-52" frameY="-1" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0028" x="2897" y="0" width="413" height="508" frameX="-52" frameY="-1" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0029" x="3310" y="0" width="419" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0030" x="0" y="509" width="424" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0031" x="424" y="509" width="426" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0032" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0033" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0034" x="1277" y="509" width="480" height="468" frameX="0" frameY="-41" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0035" x="1277" y="509" width="480" height="468" frameX="0" frameY="-41" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0036" x="1757" y="509" width="423" height="508" frameX="-57" frameY="-1" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0037" x="1757" y="509" width="423" height="508" frameX="-57" frameY="-1" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0038" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0039" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0040" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0041" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0042" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0043" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0044" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0045" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0046" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0047" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0048" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0049" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0050" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0051" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0052" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0053" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0054" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0055" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0056" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0057" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Anim0058" x="850" y="509" width="427" height="509" frameX="-53" frameY="0" frameWidth="496" frameHeight="509"/>
+	<SubTexture name="Metal Idle0000" x="2180" y="509" width="344" height="508" frameX="-11" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0001" x="2180" y="509" width="344" height="508" frameX="-11" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0002" x="2524" y="509" width="344" height="508" frameX="-11" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0003" x="2524" y="509" width="344" height="508" frameX="-11" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0004" x="2868" y="509" width="356" height="510" frameX="0" frameY="-2" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0005" x="2868" y="509" width="356" height="510" frameX="0" frameY="-2" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0006" x="3224" y="509" width="354" height="510" frameX="-2" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0007" x="3224" y="509" width="354" height="510" frameX="-2" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0008" x="3578" y="509" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0009" x="3578" y="509" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0010" x="0" y="1019" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0011" x="0" y="1019" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0012" x="0" y="1019" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0013" x="0" y="1019" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Idle0014" x="0" y="1019" width="353" height="509" frameX="-3" frameY="0" frameWidth="356" frameHeight="512"/>
+	<SubTexture name="Metal Sing Down0000" x="353" y="1019" width="421" height="528" frameX="0" frameY="-23" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0001" x="353" y="1019" width="421" height="528" frameX="0" frameY="-23" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0002" x="774" y="1019" width="386" height="541" frameX="-13" frameY="0" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0003" x="774" y="1019" width="386" height="541" frameX="-13" frameY="0" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0004" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0005" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0006" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0007" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0008" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0009" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0010" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0011" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0012" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Down0013" x="1160" y="1019" width="399" height="534" frameX="-7" frameY="-8" frameWidth="421" frameHeight="551"/>
+	<SubTexture name="Metal Sing Left0000" x="1559" y="1019" width="430" height="495" frameX="0" frameY="-16" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0001" x="1559" y="1019" width="430" height="495" frameX="0" frameY="-16" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0002" x="1989" y="1019" width="410" height="511" frameX="-22" frameY="0" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0003" x="1989" y="1019" width="410" height="511" frameX="-22" frameY="0" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0004" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0005" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0006" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0007" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0008" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0009" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0010" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0011" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0012" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Left0013" x="2399" y="1019" width="409" height="508" frameX="-23" frameY="-3" frameWidth="432" frameHeight="511"/>
+	<SubTexture name="Metal Sing Right0000" x="2808" y="1019" width="447" height="467" frameX="-31" frameY="-26" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0001" x="2808" y="1019" width="447" height="467" frameX="-31" frameY="-26" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0002" x="3255" y="1019" width="451" height="493" frameX="0" frameY="0" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0003" x="3255" y="1019" width="451" height="493" frameX="0" frameY="0" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0004" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0005" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0006" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0007" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0008" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0009" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0010" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0011" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0012" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Right0013" x="0" y="1560" width="448" height="479" frameX="-2" frameY="-14" frameWidth="478" frameHeight="493"/>
+	<SubTexture name="Metal Sing Up0000" x="448" y="1560" width="331" height="544" frameX="0" frameY="0" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0001" x="448" y="1560" width="331" height="544" frameX="0" frameY="0" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0002" x="779" y="1560" width="349" height="527" frameX="0" frameY="-17" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0003" x="779" y="1560" width="349" height="527" frameX="0" frameY="-17" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0004" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0005" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0006" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0007" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0008" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0009" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0010" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0011" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0012" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+	<SubTexture name="Metal Sing Up0013" x="1128" y="1560" width="334" height="533" frameX="-1" frameY="-11" frameWidth="349" frameHeight="544"/>
+</TextureAtlas>
